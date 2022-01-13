@@ -12,6 +12,7 @@ Designers:
 * Fernanda Campos
 * Theo Costa
 
+
 Developers:
 * Caio Salvador Noboa
 * Maria Clara Maciel
