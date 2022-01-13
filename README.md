@@ -12,8 +12,6 @@ Designers:
 * Fernanda Campos
 * Theo Costa
 
-Teste
-
 Developers:
 * Caio Salvador Noboa
 * Maria Clara Maciel
